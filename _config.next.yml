@@ -156,14 +156,15 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   #GitHub: https://github.com/yourname || fab fa-github
-  E-Mail: mailto:yourname@gmail.com || fa fa-envelope
-  Weibo: https://weibo.com/yourname || fab fa-weibo
+  E-Mail: mailto:i@imum.me || fa fa-envelope
+  Weibo: https://weibo.com/zhaomumu520 || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
-  Instagram: https://instagram.com/yourname || fab fa-instagram
+  Instagram: https://instagram.com/imum_me || fab fa-instagram
+  你是人间的四月天: https://imum.me || fa fa-globe
   #Skype: skype:yourname?call|chat || fab fa-skype
 
 social_icons:
@@ -179,7 +180,7 @@ links_settings:
   layout: block
 
 links:
-  Title: https://imum.me
+  #Title: 
 
 # Table of Contents in the Sidebar
 # Front-matter variable (nonsupport wrap expand_all).
