@@ -103,7 +103,7 @@ menu:
   archives: /archives/ || fa fa-archive
   天马行空: /sixiang/ || fa fa-flask
   胡言乱语: /bb/ || fa fa-comments
-  #commonweal: /404/ || fa fa-heartbeat
+  Travelling: https://travellings.link || fa fa-subway
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
